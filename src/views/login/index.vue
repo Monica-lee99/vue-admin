@@ -100,7 +100,7 @@
 <script>
 import { validUsername } from "@/utils/validate";
 import SocialSign from "./components/SocialSignin";
-
+// test
 export default {
   name: "Login",
   components: { SocialSign },
