@@ -28,7 +28,6 @@ import * as filters from './filters' // global filters
  * Currently MockJs will be used in the production environment,
  * please remove it before going online ! ! !
  */
-console.log('admin');
 // eslint-disable-next-line no-undef
 if (process.env.NODE_ENV === 'production') {
   // eslint-disable-next-line no-undef
